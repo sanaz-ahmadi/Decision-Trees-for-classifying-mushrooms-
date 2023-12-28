@@ -1,10 +1,10 @@
-<ol>
+<ul>
   <li>Utilized a neural network to build a recommender system for movies.</li>
   <li>Derived a movie ratings dataset from the MovieLens (ml-latest-small) dataset.</li>
   <li>Prepared the training data by scaling and splitting it into training and test sets.</li>
   <li>Computed the dot product between user and movie vectors to make predictions.</li>
   <li>Provided functionality for making predictions for new users and finding similar items.</li>
-</ol>
+</ul>
 
 
 ### steps followed by code:
